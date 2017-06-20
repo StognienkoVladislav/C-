@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\vsproject\osss\parall5\parall5\source.cpp(83): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  parall5.vcxproj -> E:\VSProject\OSSS\parall5\Debug\parall5.exe
+  parall5.vcxproj -> E:\VSProject\OSSS\parall5\Debug\parall5.pdb (Full PDB)
